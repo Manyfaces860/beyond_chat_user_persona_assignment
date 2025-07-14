@@ -60,7 +60,7 @@ This project provides two methods for installing dependencies: using `uv` (recom
 
 ### Environment Variables
 
-This project requires sensitive API keys and user credentials, which are managed using a `.env` file. I Have provided my Own Reddit Credentials(i will delete them after 2 or 3 days) for easier setup so you don't have to worry about them but if you want then i have a guide below about how to obtain them, but you have to put your own gemini api key.
+This project requires sensitive API keys and user credentials, which are managed using a `.env` file. Reddit_client_credentials and Gemini_api_key
 
 1. **Create a `.env` file:**
    In the root of your project directory, create a file named `.env`.
