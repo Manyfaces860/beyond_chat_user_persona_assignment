@@ -28,7 +28,7 @@ This project provides two methods for installing dependencies: using `uv` (recom
    ```
    google-genai
    praw
-   python-dotenv
+   dotenv
    ```
 
 2. **Choose your installation method:**
