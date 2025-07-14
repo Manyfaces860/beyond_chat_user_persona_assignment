@@ -1,0 +1,200 @@
+```text
+**USER PERSONA: KOJIED**
+---
+
+**BASIC DEMOGRAPHICS**
+
+*   Name: Not inferable  from provided data.
+*   Age: Estimated young adult, likely late 20s to early 30s, based on references to feeling "old" compared to interns and discussing generational experiences.
+    *   Citation:
+        Section : "Then a girl pointed at me and referred to me as the old person."
+        (Permalink(link): [https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_vi olated_by_intern_season/])
+        Post Title: "What\u2019s a movie that best represents your childhood?"
+        Section: "There's so many coming of age movies for boomers and millennials, what about for  gen-Z?"
+        (URL: [https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/]) 
+*   Occupation: Software Developer, specifically an iOS developer currently building in visionOS.
+    *   Citation:
+        Section: "Hey I\u2019m an iOS developer building in visionOS."
+        (Permalink (link): [https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/])
+        Post Title: "Can you actually \u20 1cwork\u201d in AVP?"
+        Section: "I\u2019ve been trying to actually use the Vision Pro to get some work done, but without github and visual studio code,  it\u2019s not been the easiest (also obviously no terminal)."
+        (URL: [https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you _actually_work_in_avp/])
+*   Location: Resides in New York City, has lived there for 3 years as of a recent post. Is a non-native resident of the US, having previously  held an H1B visa. Has travel plans including Japan, Southeast Asia, and Europe.
+    *   Citation:
+        Section: "I've only been here for three years as well."
+        (Permalink(link): [ https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/])
+        Section: "I used to be one [H1B holder],  and I\u2019m grateful for the opportunity to find a better life here in the US"
+        (Permalink(link): [https://www.reddit.com/r/AskReddit/comments/1hn x8j0/h1b_holders_what_are_your_thoughts_on_the/m4560kx/])
+        Section: "Planning to do Japan, SEA, then Europe."
+         (Permalink(link): [https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video /ktaq4d2/])
+*   Status: Not inferable from provided data.
+*   Archetype/Role: _Early Adopter & Creator_: Enthusiastic about cutting-edge technology like the Apple Vision Pro and actively develops  applications for it. _Cultural Explorer_: Interested in different cultural dynamics, including national identity (Japanese), immigration experiences (H1B), and generational shifts (Gen Z, NYC demographics).
+
+---
+
+**BEHAVIOUR & HABITS **
+
+*   Online Habits: Engages actively in niche technology and development subreddits (VisionPro, visionosdev), seeking and sharing information. Also participates in interest-based communities (OnePiece, NBA, plantclinic) and broader discussion  forums (AskReddit, newyorkcity, GenZ, Conservative). Posts include questions, sharing personal projects (MVP), seeking feedback, and expressing opinions on social/cultural topics.
+    *   Citation:
+        Post Title: "Best blogs,  tutorial channels to learn"
+        Section: "Hey I\u2019m an iOS developer building in visionOS. Do people have recommendations on resources to catch up on new featuresets for spacial computing?"
+        (URL:  [https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/])
+        Post Title: "Spacial tours with  3D map and 360\u02da video"
+        Section: "I've been working on an MVP for tours in 360\u02da video."
+        (URL: [https://v .redd.it/v4acixg6izlc1])
+        Post Title: "\u3010Theory\u3011 What if we live in the void 800 century"
+        Section: not  available ,
+        (URL: [https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800 _century/])
+*   Interests/Hobbies: Deep interest in spatial computing, AR/VR, and development on the Apple Vision Pro. Enjoys anime (Edgerunners) and manga (One Piece), speculates on plot  theories. Follows sports (NBA), and discusses referees. Has a plant and seeks advice for its care. Interested in social commentary, generational differences, urban life dynamics, and potentially political topics (TikTok ban). Has connections in the Japanese gaming /tech industry.
+    *   Citation:
+        Post Title: "Spacial tours with 3D map and 360\u02da video"
+        Section: not available ,
+        (URL: [https://v. redd.it/v4acixg6izlc1])
+        Post Title: "\u3010Theory\u3011 What if we live in the void 800 century"
+        Section : not available ,
+        (URL: [https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void _800_century/])
+        Post Title: "Would you guys like to see Pokemon Go in AVP?"
+        Section: "Being Japanese, I happen to know a few key decision makers both in the Pokemon Company as well as  Niantic."
+        (URL: [https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_av p/])
+        Post Title: "H1B holders, what are your thoughts on the narrative that you are being exploited?"
+        Section: not available ,
+        (URL: [https://www.reddit.com/r/Ask Reddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/])
+*   Consumption Habits: Owns and actively uses an Apple Vision Pro and an M1 MacBook Pro.  Uses the ChatGPT iPad app. Owns an Insta360 camera for creating content. Consumes media like anime/shows on AVP.
+    *   Citation:
+        Post Title: "Can you actually \u201cwork \u201d in AVP?"
+        Section: "I\u2019ve been trying to actually use the Vision Pro to get some work done, but without github and visual studio code, it\u 2019s not been the easiest... I could use Mac virtual display, but since I have a M1 MBP the latency is noticeable..."
+        (URL: [https://www.reddit.com/r/VisionPro/comments/1ai wqa2/can_you_actually_work_in_avp/])
+        Post Title: "Killer feature: accessing chatGPT (iPad app) and using audio as primary input"
+        Section: "I just find this to  be much easier than doing it on my Mac + display setup. Give it a try"
+        (URL: [https://www.reddit.com/r/VisionPro/comments/1alf7av/killer_feature_ accessing_chatgpt_ipad_app_and/])
+        Section: "Currently using [these](https://www.insta360.com/product/insta360-x3) to take videos." 
+        (Permalink(link): [https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360 _video/ktaq7pt/])
+*   Communication Style: Direct, expressive, and informal. Shares personal experiences and opinions readily. In technical contexts, seeks specific information and provides details about their setup and challenges. Can be critical  (NBA refs, AVP workflow issues) but also reflective and philosophical (NYC intern season, H1B experience). Seeks feedback on creative projects.
+    *   Citation:
+        Section: "Naturally I felt violated"
+        (Permalink(link ): [https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/])
+        Post Title: "Can you actually \u201c work\u201d in AVP?"
+        Section: "I\u2019m curious if people have been able to fully port their workflow into AVP."
+        (URL: [https://www .reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/])
+        Section: "Would love to get your thoughts!"
+        (Permalink (link): [https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt 1xxvi/])
+
+---
+
+**FRUSTRATIONS**
+
+*   Pain Points: Technical limitations hindering workflow integration on Vision Pro (latency, lack of dev tools), the current cost/value proposition of AVP if it can't fully replace existing  setups, changes in familiar social environments due to demographic shifts ("intern season" in NYC bar), challenges with plant care, inconsistencies in areas like sports officiating.
+    *   Citation:
+        Post Title: "Can you actually \u201 cwork\u201d in AVP?"
+        Section: "I\u2019ve been trying to actually use the Vision Pro to get some work done, but without github and visual studio code, it\ u2019s not been the easiest (also obviously no terminal)... the latency is noticeable... if this device can\u2019t replace my entire workflow, I don\u2019t know if I can justify the  price."
+        (URL: [https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/])
+        Post Title:  "I feel violated by intern season"
+        Section: "Today when I went to the bar and all of a sudden I felt like I was at a college basement party... Naturally I felt violated"
+        (URL: [https://www.reddit. com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/])
+        Post Title: "\u3010Help!\u3011 English ivy is withering, any suggestions on what I should do?"
+        Section: not available ,
+        (URL: [https://www.reddit.com/gallery/16tj525])
+*   Dis likes: Bars feeling like overly young, crowded college parties ("personal orgy dome"), being referred to based on perceived age, lack of essential developer support on new platforms (AVP).
+    *   Citation:
+        Post Title: "I feel violated by  intern season"
+        Section: "Today when I went to the bar and all of a sudden I felt like I was at a college basement party... Naturally I felt violated"
+        (URL: [https://www.reddit.com/ r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/])
+        Post Title: "Can you actually \u201cwork\u20 1d in AVP?"
+        Section: "...without github and visual studio code, it\u2019s not been the easiest (also obviously no terminal). I could use Mac virtual display, but since I have a M1 MBP the latency  is noticeable..."
+        (URL: [https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/])
+
+---
+
+**MOTIVATIONS **
+
+*   What drives them: Innovation and creating new experiences (spatial tours app), leveraging technology for productivity and entertainment, learning and mastering new development platforms, contributing to communities, exploring the world (physically and virtually), seeking opportunity and  personal growth (reflected in H1B experience), finding better ways to work and live.
+    *   Citation:
+        Post Title: "Spacial tours with 3D map and 360\u02da video"
+         Section: "I've been working on an MVP for tours in 360\u02da video. I haven't been able to find one which integrated 3D models and 360\u02 da video, especially on the AVP, so decided to make one."
+        (URL: [https://v.redd.it/v4acixg6izlc1])
+        Post Title: "Killer feature:  accessing chatGPT (iPad app) and using audio as primary input"
+        Section: "I just find this to be much easier than doing it on my Mac + display setup."
+        (URL: [https://www.reddit. com/r/VisionPro/comments/1alf7av/killer_feature_accessing_chatgpt_ipad_app_and/])
+        Section: "I used to be one [H1B holder], and  I\u2019m grateful for the opportunity to find a better life here in the US"
+        (Permalink(link): [https://www.reddit.com/r/AskReddit/comments/1hnx 8j0/h1b_holders_what_are_your_thoughts_on_the/m4560kx/])
+*   Why they use Reddit: To connect with specific technical and interest-based communities, find  resources and tutorials, share their own projects and get feedback, engage in discussions about technology, social issues, and entertainment, and seek solutions to practical problems (plant care).
+    *   Citation:
+        Post Title: "Best blogs, tutorial channels  to learn"
+        Section: "Do people have recommendations on resources to catch up on new featuresets for spacial computing?"
+        (URL: [https://www.reddit.com/r/visionosdev/comments/1b3 yugb/best_blogs_tutorial_channels_to_learn/])
+        Section: "Would love to get your thoughts!"
+        (Permalink(link): [https://www.reddit.com/r/VisionPro/comments/1 b4yi15/spacial_tours_with_3d_map_and_360_video/kt1xxvi/])
+        Post Title: "\u3010Help!\u3 011English ivy is withering, any suggestions on what I should do?"
+        Section: not available ,
+        (URL: [https://www.reddit.com/gallery/16tj525])
+
+ ---
+
+**PERSONALITY TRAITS**
+
+*   Introvert/Extrovert: 65/100 (Leans Extrovert - shares personal projects, cultural identity, feelings, engages in multiple communities)
+     *   Citation:
+        Section: "I've been working on an MVP for tours in 360\u02da video."
+        (Permalink(link): [https://www.reddit.com/r/ VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt1xxvi/])
+        Post Title: "Would you guys  like to see Pokemon Go in AVP?"
+        Section: "Being Japanese, I happen to know a few key decision makers..."
+        (URL: [https://www.reddit.com/r/VisionPro/comments/1ajbk qm/would_you_guys_like_to_see_pokemon_go_in_avp/])
+        Post Title: "I feel violated by intern season"
+        Section: "I feel violated by intern season" 
+        (URL: [https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/])
+*   Intuition/Sensing : 75/100 (Leans Intuition - focuses on future possibilities (AVP potential, transparent displays), abstract theories (One Piece), potential new applications (Pokemon Go AVP))
+    *   Citation:
+        Post Title: " Would you guys like to see Pokemon Go in AVP?"
+        Section: "I think Pokemon could be one of the killer use case for the vision pro."
+        (URL: [https://www.reddit.com/r/ VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/])
+        Post Title: "\u3010Theory\u30 11 What if we live in the void 800 century"
+        Section: not available ,
+        (URL: [https://www.reddit.com/r/OnePiece/comments/18o4k 0u/theory_what_if_we_live_in_the_void_800_century/])
+        Post Title: "Can't wait for Vision Air 5 launching in 2034  with these transparent displays!"
+        Section: not available ,
+        (URL: [https://www.youtube.com/watch?v=jChXtp56RVE])
+*   Feeling/Thinking: 4 5/100 (Leans Thinking - engages in technical problem-solving and analysis, but also expresses personal feelings and considers social harmony)
+    *   Citation:
+        Post Title: "Can you actually \u201cwork \u201d in AVP?"
+        Section: "...without github and visual studio code, it\u2019s not been the easiest..."
+        (URL: [https://www.reddit.com/r/VisionPro /comments/1aiwqa2/can_you_actually_work_in_avp/])
+        Post Title: "I feel violated by intern season"
+        Section: "But then again, I thought to myself. Am I not  the same as they are, just at a longer time horizon?"
+        (URL: [https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_ by_intern_season/])
+*   Perceiving/Judging: 60/100 (Leans Perceiving - actively exploring possibilities with new tech, developing MVP iteratively, seeking resources and feedback rather than adhering to a  strict plan)
+    *   Citation:
+        Post Title: "Spacial tours with 3D map and 360\u02da video"
+        Section: "I've been working on an MVP  for tours in 360\u02da video. I haven't been able to find one which integrated 3D models and 360\u02da video... so decided to make one. Would love to get your thoughts !"
+        (URL: [https://v.redd.it/v4acixg6izlc1])
+        Post Title: "Best blogs, tutorial channels to learn"
+        Section: "Do people have recommendations on resources to catch  up on new featuresets for spacial computing?"
+        (URL: [https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to _learn/])
+
+---
+
+**GOALS & NEEDS**
+
+*   Aspirations: To successfully develop and commercialize applications for spatial computing (e.g., the spatial tours app), to fully integrate new and efficient workflows using  cutting-edge technology, to travel and create content related to his projects, and to continue building a successful life in the US leveraging opportunities.
+    *   Citation:
+        Post Title: "Spacial tours with 3D map and  360\u02da video"
+        Section: "I've been working on an MVP for tours in 360\u02da video... decided to make one."
+        (URL: [ https://v.redd.it/v4acixg6izlc1])
+        Section: "Since I got alot of positive feedback I'll look into building a testflight version! ... continue to expand as I go travel  around this summer."
+        (Permalink(link): [https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and _360_video/ktaq4d2/])
+        Section: "I used to be one [H1B holder], and I\u2019m grateful for the opportunity to find a better life  here in the US"
+        (Permalink(link): [https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts _on_the/m4560kx/])
+*   Unmet Needs: Requires improved software support and native developer tools on the Vision Pro to make it a viable primary work device. Needs better performance/lower latency for  Mac virtual display if upgrading hardware is not feasible. Seeks effective solutions for practical problems like plant care. Potentially seeks stability or comfort in his environment amidst perceived demographic shifts.
+    *   Citation:
+        Post Title: "Can you actually \ u201cwork\u201d in AVP?"
+        Section: "...without github and visual studio code, it\u2019s not been the easiest (also obviously no terminal). I could use Mac virtual  display, but since I have a M1 MBP the latency is noticeable... Also where\u2019s Xcode? If Apple wants AVP to be a \u201cwork device\u201d, they gotta have  at least Xcode right?"
+        (URL: [https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/])
+         Post Title: "\u3010Help!\u3011English ivy is withering, any suggestions on what I should do?"
+        Section: not available ,
+        (URL: [https://www.reddit .com/gallery/16tj525])
+
+---
+
+**DIRECT QUOTE**
+
+"I used to be one, and I\u2019m grateful for the opportunity to find a better life here in the  US"
+```

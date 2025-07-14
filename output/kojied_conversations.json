@@ -1,0 +1,1289 @@
+{
+  "18o4k0u": {
+    "submission_info": {
+      "title": "【Theory】 What if we live in the void 800 century",
+      "url": "https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/",
+      "author": "kojied",
+      "subreddit": "OnePiece",
+      "score": 0,
+      "num_comments": 0,
+      "is_self": true,
+      "selftext": "Let’s say the WG is the current western civilization. \n\nThe birth of Western history is in the Middle East, specifically Iraq (Nippur). Which is why the west, led by the US, has been trying to cause instability, and destroy historical artifacts. That way, the true history of how the WG came to be won’t come into light. Like, archaeology is basically using artifacts discovered and interpreting it a certain way. The whole concept is something that mostly grew into a concept in the UK around 1824. 1824 is the year the Oxford English Dictionary defined \"archaeology\" a word.\n\n(Btw our generation will be remembered for our new additions which include anti-work, curry laksa, diet-busting, final frontier, fugazi, gajillion, skellington, straight-talking, stonkingly, voguing,etc.)\n\nBack to the main topic, what I’m saying is that it’s pretty easy for the “1%” to control the “story of our world” through archeologists and historians. These have traditionally been an activity for the rich and remains that way. Like, who tries to become a historian unless they have trust funds?\n\nSo yeah, maybe the history we are told on a daily basis is pretty different from reality, and Oda is trying to tell us this message.\n\nWhat are pacifistas? They're our modern comparable to AI. They will be the ultimate, infinite, obedient, power between the celestial dragons (also known as the 1%) and us normal humans.\n\nSo who is our Nika? Who is our Joy Boy? are we too early to hear the drums of liberation, or do we actually all have our own drums of liberation?\n\n&#x200B;\n\n&#x200B;\n\n[tourism of 19th century](https://preview.redd.it/bt1oqgxker7c1.png?width=400&format=png&auto=webp&s=2530f2a3b52b37bfd7547cfe4cf61b5d9d52e7c7)"
+    },
+    "comments_on_post": []
+  },
+  "1b3yugb": {
+    "submission_info": {
+      "title": "Best blogs, tutorial channels to learn",
+      "url": "https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/",
+      "author": "kojied",
+      "subreddit": "visionosdev",
+      "score": 4,
+      "num_comments": 7,
+      "is_self": true,
+      "selftext": "Hey I’m an iOS developer building in visionOS. Do people have recommendations on resources to catch up on new featuresets for spacial computing?"
+    },
+    "comments_on_post": [
+      {
+        "id": "ksvliz4",
+        "body": "There are a few threads on here already that point to some of the more common sources for getting up to speed with SwiftUI, but if you're already working in iOS then there aren't a ton of tutorials out yet that go into too much depth on VisionOS specific features. Best sources right now are likely the apple demo projects and docs on their developer site.   \n\n\nI've been trying to put some videos out as I get up to speed myself that you can check out if you want here: [https://www.youtube.com/playlist?list=PLrHzS0dchZzQ6G75qcNzBBqxzuE2xFJcQ](https://www.youtube.com/playlist?list=PLrHzS0dchZzQ6G75qcNzBBqxzuE2xFJcQ) Planning on making more as I continue getting familiar with things, so if there's anything specifically you're looking for more info on just let me know. Good luck!",
+        "author": "calebwinningham",
+        "created_utc": 1709313424.0,
+        "score": 4,
+        "permalink": "https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/ksvliz4/",
+        "parent_id": "t3_1b3yugb",
+        "depth": 0
+      },
+      {
+        "id": "ksvlw5w",
+        "body": "In my opinion, Apple's documentation and sample projects are REALLY, REALLY good. \n\nAnd this repository helped me a lot for most the concepts. Easy to read and learn.\n\n&#x200B;\n\n[https://github.com/satoshi0212/visionOS\\_30Days?search=1](https://github.com/satoshi0212/visionOS_30Days?search=1)",
+        "author": "unibodydesignn",
+        "created_utc": 1709313547.0,
+        "score": 4,
+        "permalink": "https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/ksvlw5w/",
+        "parent_id": "t3_1b3yugb",
+        "depth": 0
+      },
+      {
+        "id": "kt4l9qo",
+        "body": "Have been keeping track of learning resources at https://github.com/IvanCampos/visionOS-examples?tab=readme-ov-file#learning-resources\n\nIn this repo, you’ll also find a few visionOS examples to help get you started.",
+        "author": "sopmac21379",
+        "created_utc": 1709457676.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/kt4l9qo/",
+        "parent_id": "t3_1b3yugb",
+        "depth": 0
+      },
+      {
+        "id": "ksvzzmu",
+        "body": "Just checked out your tutorials, custom skybox was interesting. I've taken a different approach, but good to know there are multiple ways of doing it.\n\nMy devstrap is arriving today, will check out your tutorial if I get stuck somewhere!",
+        "author": "kojied",
+        "created_utc": 1709318275.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/ksvzzmu/",
+        "parent_id": "t1_ksvliz4",
+        "depth": 1
+      },
+      {
+        "id": "ksw06h7",
+        "body": "I found the opposite to be true in regards to apples docs. Their hello world project has like 20 scripts.\n\n But that GitHub looks great! I’ll check that out tonight.",
+        "author": "gryxitl",
+        "created_utc": 1709318338.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/ksw06h7/",
+        "parent_id": "t1_ksvlw5w",
+        "depth": 1
+      },
+      {
+        "id": "ksw0qkn",
+        "body": "This is solid! Wish I discovered this a month ago and I'd have been able to build things much faster haha",
+        "author": "kojied",
+        "created_utc": 1709318528.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/ksw0qkn/",
+        "parent_id": "t1_ksvlw5w",
+        "depth": 1
+      },
+      {
+        "id": "ksx8mlr",
+        "body": "same idk why they made it so hard all i wanted was a project to learn the fundamentals and easy parts not a whole project with transitions and millions od extensions already learnt the basics on my own tho with my own project and applying the basic parts from the documentation",
+        "author": "evessbby",
+        "created_utc": 1709333694.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/ksx8mlr/",
+        "parent_id": "t1_ksw06h7",
+        "depth": 2
+      }
+    ]
+  },
+  "1b4yi15": {
+    "submission_info": {
+      "title": "Spacial tours with 3D map and 360˚ video",
+      "url": "https://v.redd.it/v4acixg6izlc1",
+      "author": "kojied",
+      "subreddit": "VisionPro",
+      "score": 145,
+      "num_comments": 43,
+      "is_self": false,
+      "selftext": null
+    },
+    "comments_on_post": [
+      {
+        "id": "kt1xxvi",
+        "body": "I've been working on an MVP for tours in 360˚ video. I haven't been able to find one which integrated 3D models and 360˚ video, especially on the AVP, so decided to make one.\n\nWould love to get your thoughts!",
+        "author": "kojied",
+        "created_utc": 1709413052.0,
+        "score": 29,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt1xxvi/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt1zfsl",
+        "body": "Oh sick I’m visiting the campus later this month. I’d love to use this to get an idea of areas to check out before going there. 10/10 concept. \n\nDid you download the videos from some repository or record these yourself?",
+        "author": "Dismal_Spread5596",
+        "created_utc": 1709413592.0,
+        "score": 5,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt1zfsl/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt21wj2",
+        "body": "This is the kind of ‘killer app’ that would’ve gotten me excited about the VP at launch.\n\nPretty cool. I hope to see more.",
+        "author": "SaintBrutus",
+        "created_utc": 1709414492.0,
+        "score": 6,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt21wj2/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt2bwed",
+        "body": "Do it OP, sign me up as testflighter too please!",
+        "author": "surfer808",
+        "created_utc": 1709418110.0,
+        "score": 3,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt2bwed/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt30h5z",
+        "body": "would love to test this",
+        "author": "Yzord",
+        "created_utc": 1709427751.0,
+        "score": 3,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt30h5z/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt31qie",
+        "body": "This looks very cool. Would love to see it as a full-fledged app!",
+        "author": "somedude988",
+        "created_utc": 1709428269.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt31qie/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt32ef8",
+        "body": "Yes! Would be awesome!!",
+        "author": "bdbg",
+        "created_utc": 1709428544.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt32ef8/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt3c6k5",
+        "body": "this is the kind of stuff I'm here for.",
+        "author": "isoamazing",
+        "created_utc": 1709432613.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt3c6k5/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt3c7h9",
+        "body": "This is a great concept. Definitely do it! I’d love to beta test when/if you need.",
+        "author": "pinealoma",
+        "created_utc": 1709432625.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt3c7h9/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt3es91",
+        "body": "One thing i cant stand is that when you get close to objects to see the details they fade away smh",
+        "author": "MixedRealityAddict",
+        "created_utc": 1709433711.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt3es91/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt3gkbo",
+        "body": "Oh please. Wander is the app I use most on Quest. I'd love to pay for it!",
+        "author": "mingzhujingdu",
+        "created_utc": 1709434475.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt3gkbo/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt3hnsg",
+        "body": "Would totally be willing to test this out on testflight",
+        "author": "onelilfizzle",
+        "created_utc": 1709434949.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt3hnsg/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt3wk5e",
+        "body": " really need lots of 360˚ camera I think",
+        "author": "lookbtw",
+        "created_utc": 1709441890.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt3wk5e/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt43r4o",
+        "body": "“What is real”",
+        "author": "kim_en",
+        "created_utc": 1709445861.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt43r4o/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt4dwoa",
+        "body": "Heck yes!",
+        "author": "mjkobb",
+        "created_utc": 1709452441.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt4dwoa/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt5zi0g",
+        "body": "Count me in! Please let me test flight",
+        "author": "SeaEast2103",
+        "created_utc": 1709483678.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt5zi0g/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt8jhtp",
+        "body": "On quest it's called Google earth",
+        "author": "Exciting_Till543",
+        "created_utc": 1709517375.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt8jhtp/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt98cix",
+        "body": "What mapping SDK did you use?",
+        "author": "infotographer",
+        "created_utc": 1709528290.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt98cix/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "ktaq4d2",
+        "body": "Since I got alot of positive feedback I'll look into building a testflight version!\n\nWe'll likely start with a few cities in the US, and continue to expand as I go travel around this summer.\n\nPlanning to do Japan, SEA, then Europe. Lmk if you have places you want to explore via my app",
+        "author": "kojied",
+        "created_utc": 1709561199.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktaq4d2/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "ktjo0kk",
+        "body": "Would love to test it once you got a test flight version up. I’m in Asia so let me know how I can help take photos here.",
+        "author": "kkwok",
+        "created_utc": 1709689499.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktjo0kk/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "ktka9dy",
+        "body": "How do you demo your app on your device?",
+        "author": "amj125",
+        "created_utc": 1709698578.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktka9dy/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt2fomk",
+        "body": "This sounds a lot like this app for the Quest (which is great). https://www.oculus.com/experiences/app/2078376005587859/?utm_source=oculus&utm_medium=share\n\nIs that right?",
+        "author": "DontBotherCardingMe",
+        "created_utc": 1709419521.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt2fomk/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt1yt4i",
+        "body": "Is this on the App Store?",
+        "author": "Drawerpull",
+        "created_utc": 1709413363.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt1yt4i/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "ktd6z2k",
+        "body": "Will definitely test as well",
+        "author": "Commercial-Frame-773",
+        "created_utc": 1709592050.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktd6z2k/",
+        "parent_id": "t3_1b4yi15",
+        "depth": 0
+      },
+      {
+        "id": "kt2hhyx",
+        "body": "Looks great! Can I try it?\n\nAlso how you take the photos?",
+        "author": "[deleted]",
+        "created_utc": 1709420209.0,
+        "score": 7,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt2hhyx/",
+        "parent_id": "t1_kt1xxvi",
+        "depth": 1
+      },
+      {
+        "id": "kt2lcp5",
+        "body": "How can we help capture content for this!",
+        "author": "hotwire32",
+        "created_utc": 1709421694.0,
+        "score": 5,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt2lcp5/",
+        "parent_id": "t1_kt1xxvi",
+        "depth": 1
+      },
+      {
+        "id": "ktipto2",
+        "body": "I tried to generalize a project that would do this, but couldn’t figure it out. That’s very good.!!!",
+        "author": "Ok-Feedback-6120",
+        "created_utc": 1709676753.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktipto2/",
+        "parent_id": "t1_kt1xxvi",
+        "depth": 1
+      },
+      {
+        "id": "n2f8hts",
+        "body": "Hey, did you take this app forward? I’m after something with video or still imagine where I can Juno around points in a map.",
+        "author": "thespiceismight",
+        "created_utc": 1752177110.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/n2f8hts/",
+        "parent_id": "t1_kt1xxvi",
+        "depth": 1
+      },
+      {
+        "id": "kt2apug",
+        "body": "Thanks! I recorded them myself since I was in Boston last week",
+        "author": "kojied",
+        "created_utc": 1709417676.0,
+        "score": 7,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt2apug/",
+        "parent_id": "t1_kt1zfsl",
+        "depth": 1
+      },
+      {
+        "id": "kt35gp6",
+        "body": "Hmm, something nearly identical has been on Quest for ages and it's more like one of those \"wow\" experiences that you stop going back to after a while. The cool thing there is multiplayer so you can go visit places together. I guess that's even harder with Vision Pro unless room scale get more support (you do a lot of walking around the map in practise).\n\nnb: app on Quest is [Wooord](https://www.oculus.com/deeplink/?action=view&path=/app/4360608937312293&ref=oculus_desktop) but there are a few variations on it.",
+        "author": "redditrasberry",
+        "created_utc": 1709429808.0,
+        "score": 3,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt35gp6/",
+        "parent_id": "t1_kt21wj2",
+        "depth": 1
+      },
+      {
+        "id": "ktas3qn",
+        "body": "Didn't know they had an app for it",
+        "author": "kojied",
+        "created_utc": 1709562023.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktas3qn/",
+        "parent_id": "t1_kt8jhtp",
+        "depth": 1
+      },
+      {
+        "id": "ktas26h",
+        "body": "Not atm, it's purely conceptual at this point",
+        "author": "kojied",
+        "created_utc": 1709562006.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktas26h/",
+        "parent_id": "t1_kt98cix",
+        "depth": 1
+      },
+      {
+        "id": "kt2i5uq",
+        "body": "Conceptually very similar! I’m still debating whether it should be photos or videos.\nIf it’s photos it’s very similar to this app, although I’m thinking we’ll hire people to take content, so it’s much higher quality.\nCampus tours, wedding planning, real estate are some examples I think could be enterprise use cases.",
+        "author": "kojied",
+        "created_utc": 1709420465.0,
+        "score": 4,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt2i5uq/",
+        "parent_id": "t1_kt2fomk",
+        "depth": 1
+      },
+      {
+        "id": "kt2fxr6",
+        "body": "Wander’s images come from Google Street View, so resolution isn’t the greatest. If you have access to better that’s cool.",
+        "author": "DontBotherCardingMe",
+        "created_utc": 1709419617.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt2fxr6/",
+        "parent_id": "t1_kt2fomk",
+        "depth": 1
+      },
+      {
+        "id": "kt2atdg",
+        "body": "No, it's an MVP on testflight. I'll build a full app if there's sufficient interest",
+        "author": "kojied",
+        "created_utc": 1709417712.0,
+        "score": 10,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt2atdg/",
+        "parent_id": "t1_kt1yt4i",
+        "depth": 1
+      },
+      {
+        "id": "ktaq7pt",
+        "body": "Will work on making a testflight version!\n\nCurrently using [these](https://www.insta360.com/product/insta360-x3) to take videos.",
+        "author": "kojied",
+        "created_utc": 1709561238.0,
+        "score": 3,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktaq7pt/",
+        "parent_id": "t1_kt2hhyx",
+        "depth": 2
+      },
+      {
+        "id": "ktaq9yk",
+        "body": "Thanks! Currently using [these](https://www.insta360.com/product/insta360-x3), but open to other ideas",
+        "author": "kojied",
+        "created_utc": 1709561265.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktaq9yk/",
+        "parent_id": "t1_kt2lcp5",
+        "depth": 2
+      },
+      {
+        "id": "kt3sy3t",
+        "body": "What hardware did you use to record it? My company is looking at doing immersive tours of our facilities for internal staff and this would be great for that.",
+        "author": "Vortec4800",
+        "created_utc": 1709440082.0,
+        "score": 3,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt3sy3t/",
+        "parent_id": "t1_kt2apug",
+        "depth": 2
+      },
+      {
+        "id": "ktarvif",
+        "body": "Wow this is the closest Meta comparison I've come across. Will check it out!",
+        "author": "kojied",
+        "created_utc": 1709561931.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktarvif/",
+        "parent_id": "t1_kt35gp6",
+        "depth": 2
+      },
+      {
+        "id": "kt2mc9y",
+        "body": "Sourcing high quality content is the key. It’s also likely to be capital intensive. \n\nAnother challenge is navigating - Apple doesn’t make it easy to move while immersed, so you have to decorate the immersive environment with “navigate here” elements. There is a recent thread on this sub by the developers of BLINK that discusses this a bit. \n\nThat said, I think it would be really interesting. Some of the locations on Wander let you go inside places and it’s cool. \n\nI used Wander to explore a little town in Italy before we visited and when we got there I knew my way around. It was cool and a little strange!",
+        "author": "DontBotherCardingMe",
+        "created_utc": 1709422087.0,
+        "score": 5,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt2mc9y/",
+        "parent_id": "t1_kt2i5uq",
+        "depth": 2
+      },
+      {
+        "id": "kt3jl1o",
+        "body": "360 photos please! They are gorgeous on Vision Pro, and there are huge resources on Google map. 360 videos are mostly meh, and few.",
+        "author": "mingzhujingdu",
+        "created_utc": 1709435779.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt3jl1o/",
+        "parent_id": "t1_kt2i5uq",
+        "depth": 2
+      },
+      {
+        "id": "kt33an4",
+        "body": "this is amazing, i would help you with it if needed. DM me.",
+        "author": "Additional_Wealth867",
+        "created_utc": 1709428913.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/kt33an4/",
+        "parent_id": "t1_kt2atdg",
+        "depth": 2
+      },
+      {
+        "id": "ktaqb2d",
+        "body": "Nice, DMed you",
+        "author": "kojied",
+        "created_utc": 1709561278.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/ktaqb2d/",
+        "parent_id": "t1_kt3sy3t",
+        "depth": 3
+      }
+    ]
+  },
+  "1hnx8j0": {
+    "submission_info": {
+      "title": "H1B holders, what are your thoughts on the narrative that you are being exploited?",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/",
+      "author": "kojied",
+      "subreddit": "AskReddit",
+      "score": 1,
+      "num_comments": 1,
+      "is_self": true,
+      "selftext": ""
+    },
+    "comments_on_post": [
+      {
+        "id": "m4560kx",
+        "body": "I used to be one, and I’m grateful for the opportunity to find a better life here in the US",
+        "author": "kojied",
+        "created_utc": 1735358132.0,
+        "score": 0,
+        "permalink": "https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/m4560kx/",
+        "parent_id": "t3_1hnx8j0",
+        "depth": 0
+      }
+    ]
+  },
+  "1b36n83": {
+    "submission_info": {
+      "title": "Can't wait for Vision Air 5 launching in 2034 with these transparent displays!",
+      "url": "https://www.youtube.com/watch?v=jChXtp56RVE",
+      "author": "kojied",
+      "subreddit": "VisionPro",
+      "score": 0,
+      "num_comments": 3,
+      "is_self": false,
+      "selftext": null
+    },
+    "comments_on_post": [
+      {
+        "id": "ksq7k9n",
+        "body": "Def around 10 years needed to optimize because the screen resolution and color are atrocious and a waste of time/money on these 🤮🤮🤮🤮",
+        "author": "derxal",
+        "created_utc": 1709229866.0,
+        "score": 3,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b36n83/cant_wait_for_vision_air_5_launching_in_2034_with/ksq7k9n/",
+        "parent_id": "t3_1b36n83",
+        "depth": 0
+      },
+      {
+        "id": "ksqzvul",
+        "body": "Nits too low for Apple Vision",
+        "author": "DonnayWinterford",
+        "created_utc": 1709239137.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b36n83/cant_wait_for_vision_air_5_launching_in_2034_with/ksqzvul/",
+        "parent_id": "t3_1b36n83",
+        "depth": 0
+      },
+      {
+        "id": "ksr4ebm",
+        "body": "Wouldn't make any sense. By 2034 we'll likely have waveguides projecting directly onto retina.\n\nThis kind of display would have no privacy, wouldn't be varifocal, and would have to be formed like bubbles a constant radius from any direction you look.",
+        "author": "rotates-potatoes",
+        "created_utc": 1709240596.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1b36n83/cant_wait_for_vision_air_5_launching_in_2034_with/ksr4ebm/",
+        "parent_id": "t3_1b36n83",
+        "depth": 0
+      }
+    ]
+  },
+  "1alf7av": {
+    "submission_info": {
+      "title": "Killer feature: accessing chatGPT (iPad app) and using audio as primary input",
+      "url": "https://www.reddit.com/r/VisionPro/comments/1alf7av/killer_feature_accessing_chatgpt_ipad_app_and/",
+      "author": "kojied",
+      "subreddit": "VisionPro",
+      "score": 3,
+      "num_comments": 1,
+      "is_self": true,
+      "selftext": "I just find this to be much easier than doing it on my Mac + display setup. Give it a try"
+    },
+    "comments_on_post": [
+      {
+        "id": "kpfe41b",
+        "body": "Fuckin A",
+        "author": "starscream4747",
+        "created_utc": 1707358630.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1alf7av/killer_feature_accessing_chatgpt_ipad_app_and/kpfe41b/",
+        "parent_id": "t3_1alf7av",
+        "depth": 0
+      }
+    ]
+  },
+  "1hnx7lj": {
+    "submission_info": {
+      "title": "H1B holders, do you feel exploited, or see it as an opportunity to build a better life for you in the US?",
+      "url": "https://www.reddit.com/r/AskReddit/comments/1hnx7lj/h1b_holders_do_you_feel_exploited_or_see_it_as_an/",
+      "author": "kojied",
+      "subreddit": "AskReddit",
+      "score": 1,
+      "num_comments": 1,
+      "is_self": true,
+      "selftext": ""
+    },
+    "comments_on_post": [
+      {
+        "id": "m455nut",
+        "body": "**PLEASE READ THIS MESSAGE IN ITS ENTIRETY BEFORE TAKING ACTION.**\n\nHi there, your post has been removed for one of the following reasons:\n\n* [Rule 3:](https://www.reddit.com/r/AskReddit/wiki/index#wiki_-rule_3-) You must phrase the question to require more of an explanation than just \"yes\" or \"no\".  You may want to try to post your question in /r/polls.\n\n* [Rule 3:](https://www.reddit.com/r/AskReddit/wiki/index#wiki_-rule_3-) Questions with a single correct answer, that can be researched elsewhere are not allowed on AskReddit.\n\n* [Rule 1:](http://www.reddit.com/r/AskReddit/wiki/index#wiki_-rule_1-) You must post a clear and direct question in the title.  *The question must be a full sentence*.  Try including question phrases like \"What is...\", \"What are...\".\n\nYour post may be better suited for another community on reddit. Not sure where to post? Check out r/AskReddit's [list of related subreddits](/r/AskReddit/wiki/sidebarsubs), or get recommendations in r/findareddit. Please read the rules before posting in other communities as they have different rules than r/AskReddit.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AskReddit) if you have any questions or concerns.*",
+        "author": "AutoModerator",
+        "created_utc": 1735357982.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/AskReddit/comments/1hnx7lj/h1b_holders_do_you_feel_exploited_or_see_it_as_an/m455nut/",
+        "parent_id": "t3_1hnx7lj",
+        "depth": 0
+      }
+    ]
+  },
+  "1aiwqa2": {
+    "submission_info": {
+      "title": "Can you actually “work” in AVP?",
+      "url": "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/",
+      "author": "kojied",
+      "subreddit": "VisionPro",
+      "score": 2,
+      "num_comments": 10,
+      "is_self": true,
+      "selftext": "I’m curious if people have been able to fully port their workflow into AVP.\n\nI’ve been trying to actually use the Vision Pro to get some work done, but without github and visual studio code, it’s not been the easiest (also obviously no terminal). I could use Mac virtual display, but since I have a M1 MBP the latency is noticeable to the point it’s an adverse experience. I already dropped $4k on this device, renewing my MBP just so I can use it with my AVP is asking a bit too much…\n\nAlso where’s Xcode? If Apple wants AVP to be a “work device”, they gotta have at least Xcode right?\n\nI can get the simple stuff like emails done through AVP, but if this device can’t replace my entire workflow, I don’t know if I can justify the price. I’m sure it’ll get resolved down the line (more of a software issue than hardware constraints), but curious to hear how realistic it is for people to port over their workflow to AVP, and what apps you’d like to see ASAP."
+    },
+    "comments_on_post": [
+      {
+        "id": "koxdy4u",
+        "body": "The biggest latency improvements I've found have come from adjusting the display resolution – WiFi changes have little to no impact in my experience.   \n\n\nThat said, very similar perceptions so far. It's taking me more effort to get work done in it than on a standard screen, which is a huge letdown. \n\nSpecifically, the foveal rendering turns out to be really disruptive to a lot of my mac screen sharing tasks, since moving a mouse around the screen makes my selection point and focal point a little different quite often.",
+        "author": "Sad_Insect164",
+        "created_utc": 1707078772.0,
+        "score": 3,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/koxdy4u/",
+        "parent_id": "t3_1aiwqa2",
+        "depth": 0
+      },
+      {
+        "id": "kox7pqa",
+        "body": "[deleted]",
+        "author": "[deleted]",
+        "created_utc": 1707076546.0,
+        "score": 3,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/kox7pqa/",
+        "parent_id": "t3_1aiwqa2",
+        "depth": 0
+      },
+      {
+        "id": "koxgybp",
+        "body": "Email: love it to answer emails in a peaceful environment \nSafari: love it for news and stuff that doesn't make me take notes / copy paste etc...\nCI/CD pipeline: Jenkins works well once my company's root CA was added to the Vision Pro. \nCoding: I tried it for 5mn (using my Mac's screen). After that I asked myself why I was doing that to myself. Can't really explain why. I think it's because I like to look at non-tech stuff (ie: gazing through the window) between two builds or two commits. There's also some cognitive dissonance between coding using vim/terminal (a 70s kind of UI) in a AVP.\n\nIf they have a native version of Xcode maybe my opinion will change, or maybe it's just my brain that needs adjusting, but so far the \"manager\" part of my workflow will move to the AVP, the \"engineer\" part of the workflow stays on my 2D screen",
+        "author": "Relative_Process6234",
+        "created_utc": 1707079844.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/koxgybp/",
+        "parent_id": "t3_1aiwqa2",
+        "depth": 0
+      },
+      {
+        "id": "koxqri9",
+        "body": "I noticed you said since you have an M1 MacBook Pro, the latency is noticeable. would an M2 or M3 MacBook really make a difference? I figured they would be the same given that they are all running apple silicon.",
+        "author": "davester7",
+        "created_utc": 1707083379.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/koxqri9/",
+        "parent_id": "t3_1aiwqa2",
+        "depth": 0
+      },
+      {
+        "id": "kozzrxo",
+        "body": "I agree that a lot hinges on your ability to mirror a MacBook really well.  For me there is no lag, the latency is really good and I can easily work in Xcode when in mirroring mode.\n\nI have not quite managed to build up my full workflow yet but it is getting there, and I can see it being superior within a week or so.  I just get distracted by trying other VP things.\n\nThe ability to see so much at once, it has such great potential...",
+        "author": "SirBill01",
+        "created_utc": 1707120543.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/kozzrxo/",
+        "parent_id": "t3_1aiwqa2",
+        "depth": 0
+      },
+      {
+        "id": "koxinuz",
+        "body": "Only if you connect your Mac. Otherwise you're fucking around with iPad apps in the air",
+        "author": "SWEWorkAccount",
+        "created_utc": 1707080454.0,
+        "score": 4,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/koxinuz/",
+        "parent_id": "t3_1aiwqa2",
+        "depth": 0
+      },
+      {
+        "id": "kp00sia",
+        "body": "Got it, will try to tinker with the resolution tomorrow and see how that goes.\n\nI didn't even notice foveal rendering being an issue. But yeah I can see how having two UI (mouse and eye tracking) running simultaneously could lead to focal point issues",
+        "author": "kojied",
+        "created_utc": 1707121290.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/kp00sia/",
+        "parent_id": "t1_koxdy4u",
+        "depth": 1
+      },
+      {
+        "id": "koxbx0b",
+        "body": "Yeah which is just insufficient for me at least as of now.\n\nAh yeah it could totally be due to the Wi-Fi as well. I’m at a lounge-ish place where I don’t control the Wi-Fi, so it’s unfortunately outside of my control",
+        "author": "kojied",
+        "created_utc": 1707078045.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/koxbx0b/",
+        "parent_id": "t1_kox7pqa",
+        "depth": 1
+      },
+      {
+        "id": "kp00lxc",
+        "body": "I'm no MBP expert, but it could be a combination of old device and mid wifi. Other components in my 2020 MBP could be leading to latency",
+        "author": "kojied",
+        "created_utc": 1707121157.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/kp00lxc/",
+        "parent_id": "t1_koxqri9",
+        "depth": 1
+      },
+      {
+        "id": "kp00io5",
+        "body": "What MacBook do you have? I wonder if it's more about the apps I'm using and there's a way to optimize my current device without dropping another 3k for a 25% workflow improvement.",
+        "author": "kojied",
+        "created_utc": 1707121087.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/kp00io5/",
+        "parent_id": "t1_kozzrxo",
+        "depth": 1
+      },
+      {
+        "id": "kp1hb94",
+        "body": "16\" M1 Max - so not the absolutely newest system.  I think it's worth checking out better WiFi though, I think mine may even need a refresh based on occasional buffering in the 3D immersive experiences from Apple.\n\nThere was a test somewhere in Vision Pro Settings app around network responsiveness and it rated mine \"low\", maybe worth hunting that down and running it on your headset.",
+        "author": "SirBill01",
+        "created_utc": 1707149500.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/kp1hb94/",
+        "parent_id": "t1_kp00io5",
+        "depth": 2
+      }
+    ]
+  },
+  "16tj525": {
+    "submission_info": {
+      "title": "【Help!】English ivy is withering, any suggestions on what I should do?",
+      "url": "https://www.reddit.com/gallery/16tj525",
+      "author": "kojied",
+      "subreddit": "plantclinic",
+      "score": 3,
+      "num_comments": 3,
+      "is_self": false,
+      "selftext": null
+    },
+    "comments_on_post": [
+      {
+        "id": "k2f6jp4",
+        "body": "r/plantclinic is looking for new mods! Apply [here.](https://www.reddit.com/r/plantclinic/comments/16rgqeg/rplantclinic_is_looking_for_new_mods/?utm_source=share&utm_medium=web2x&context=3)\n\nPlease also view the current [welcome message](https://www.reddit.com/r/plantclinic/comments/16pexg8/welcome_to_rplantclinic/?utm_source=share&utm_medium=web2x&context=3) and let the moderation team know what changes you'd like to see moving forward.\n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/plantclinic) if you have any questions or concerns.*",
+        "author": "AutoModerator",
+        "created_utc": 1695817418.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/plantclinic/comments/16tj525/helpenglish_ivy_is_withering_any_suggestions_on/k2f6jp4/",
+        "parent_id": "t3_16tj525",
+        "depth": 0
+      },
+      {
+        "id": "k2f6r6u",
+        "body": "Have had the plan for a month now, thought it could be spider mites but I don't see any webs on this one",
+        "author": "kojied",
+        "created_utc": 1695817519.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/plantclinic/comments/16tj525/helpenglish_ivy_is_withering_any_suggestions_on/k2f6r6u/",
+        "parent_id": "t3_16tj525",
+        "depth": 0
+      },
+      {
+        "id": "k2fro5s",
+        "body": "Mine withered when I under-watered it. Turned droopy when overwatered.",
+        "author": "ZeitGeist001",
+        "created_utc": 1695826080.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/plantclinic/comments/16tj525/helpenglish_ivy_is_withering_any_suggestions_on/k2fro5s/",
+        "parent_id": "t1_k2f6r6u",
+        "depth": 1
+      }
+    ]
+  },
+  "1hcopxo": {
+    "submission_info": {
+      "title": "What needs to happen for the league to review the inconsistencies of the refs?",
+      "url": "https://www.reddit.com/r/nba/comments/1hcopxo/what_needs_to_happen_for_the_league_to_review_the/",
+      "author": "kojied",
+      "subreddit": "nba",
+      "score": 1,
+      "num_comments": 0,
+      "is_self": true,
+      "selftext": "[removed]"
+    },
+    "comments_on_post": []
+  },
+  "1ajbkqm": {
+    "submission_info": {
+      "title": "Would you guys like to see Pokemon Go in AVP?",
+      "url": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/",
+      "author": "kojied",
+      "subreddit": "VisionPro",
+      "score": 17,
+      "num_comments": 14,
+      "is_self": true,
+      "selftext": "Hi guys,\n\nI think Pokemon could be one of the killer use case for the vision pro. Imagine, you could fight players from around the world from the comfort of your couch. With the recent controversy around Palworld, they're looking for the next \"Pokemon Go\" that would propel their franchise to the next level.\n\nBeing Japanese, I happen to know a few key decision makers both in the Pokemon Company as well as Niantic. Alot of the in-game designs are transferrable, and I believe it's a matter of time until Niantic's Lightship ARDK will work on AVP.\n\n*What should I tell them? Lmk if you have thoughts or useful links/videos I should forward to them.*\n\nI'm confident that this will eventually become a thing, but the faster they ship the more AVP adoption we'll see.\n\n[personal info redacted for obvious reasons](https://preview.redd.it/be7qbqfg5qgc1.png?width=800&format=png&auto=webp&s=21fec81575a29fa53fc01639e368980dc4c5ac6f)"
+    },
+    "comments_on_post": [
+      {
+        "id": "kp02tv6",
+        "body": "This is the top App I feel the AVP is missing. It would be amazing. But I think you could make it actually see the Pokémon around you. The problem is that Apple doesn’t really want the AVP used out and about which is how Niantic wants the AVP used.",
+        "author": "Wayner83",
+        "created_utc": 1707122833.0,
+        "score": 6,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/kp02tv6/",
+        "parent_id": "t3_1ajbkqm",
+        "depth": 0
+      },
+      {
+        "id": "kp015xj",
+        "body": "Yes!",
+        "author": "[deleted]",
+        "created_utc": 1707121572.0,
+        "score": 4,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/kp015xj/",
+        "parent_id": "t3_1ajbkqm",
+        "depth": 0
+      },
+      {
+        "id": "kp1r6h3",
+        "body": "Pokémon go on the AVP would instantly make it more desirable for so many more people. The entire point of Pokemon Go is to explore your outdoors and interact with friends, which are capabilities of the AVP. Just imagine playing Pokemon Go in real life, that’s a childhood dream come true.",
+        "author": "SuperTokyo",
+        "created_utc": 1707152951.0,
+        "score": 3,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/kp1r6h3/",
+        "parent_id": "t3_1ajbkqm",
+        "depth": 0
+      },
+      {
+        "id": "kp01zx0",
+        "body": "I think that’s a wonderful idea",
+        "author": "gunronny",
+        "created_utc": 1707122203.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/kp01zx0/",
+        "parent_id": "t3_1ajbkqm",
+        "depth": 0
+      },
+      {
+        "id": "kp094il",
+        "body": "Tell them to buy (or work with) Palworld, make a Pokémon DLC for f*** sake. \n\nJokes aside, I would like to see the companion feature of Pokémon Go be expanded into something like a virtual pet that works even when you’re not playing. \n\nBattling should be redesigned, and tell them to fire any designer that says it should be round based. If battling sucks, it will always be a nostalgia game that people may play every once in a while.",
+        "author": "Yakww",
+        "created_utc": 1707127691.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/kp094il/",
+        "parent_id": "t3_1ajbkqm",
+        "depth": 0
+      },
+      {
+        "id": "kp0n0rp",
+        "body": "I am an avid Pokémon Go player (eh, maybe not so much anymore) and I don’t think I’d want to see it. The idea is to explore the physical world around us to discover Pokémon, interact with others, and get outside lol\n\nThere is definitely room for a Pokémon game though and I wouldn’t be surprised if one came about in the next few years (licensing is hard though). I also could see Niantic adding some more AR/VR features to PoGo in the future, but I think that could be years away before it’s accessible to the masses and easier/less weird to play in public. That seems to be what Niantic’s end goal is with their games. But who knows if anyone will be still playing by then.",
+        "author": "ThrowawayFruitStand9",
+        "created_utc": 1707136842.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/kp0n0rp/",
+        "parent_id": "t3_1ajbkqm",
+        "depth": 0
+      },
+      {
+        "id": "kp10wwq",
+        "body": "Yeah Pokémon go and ingress both would be welcome apps. I’m not sure how I’d picture them working, But I can see them coming out with something awesome. I’d like to see what they could do",
+        "author": "Corinthian_Pube",
+        "created_utc": 1707143281.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/kp10wwq/",
+        "parent_id": "t3_1ajbkqm",
+        "depth": 0
+      },
+      {
+        "id": "krn11wk",
+        "body": "I was thinking the same thing this morning! I know a few folks who would buy a AVP immediately if this was released!",
+        "author": "Pure_Internet_",
+        "created_utc": 1708625357.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/krn11wk/",
+        "parent_id": "t3_1ajbkqm",
+        "depth": 0
+      },
+      {
+        "id": "kwaqeb7",
+        "body": "Let’s watch this old Pokemon go ad & reimagine the possibilities for AVP\n\nhttps://youtu.be/2sj2iQyBTQs?si=WmhVS72tKLdGNpoL",
+        "author": "SnooCapers9876",
+        "created_utc": 1711254287.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/kwaqeb7/",
+        "parent_id": "t3_1ajbkqm",
+        "depth": 0
+      },
+      {
+        "id": "kp125jo",
+        "body": "I just want the iphone/ipad Pokemon Go to be playable in AVP. But everyone has blocked their app from running in AVP. I could then spin some local stops and catch any nearby pokemon while multitasking",
+        "author": "chingwo",
+        "created_utc": 1707143795.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/kp125jo/",
+        "parent_id": "t3_1ajbkqm",
+        "depth": 0
+      },
+      {
+        "id": "kp24mj6",
+        "body": "Pokémon company has been so lazy for decades, it’s a real insult to its original fans.",
+        "author": "howtoretireby40",
+        "created_utc": 1707157532.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/kp24mj6/",
+        "parent_id": "t3_1ajbkqm",
+        "depth": 0
+      },
+      {
+        "id": "kp3cqv1",
+        "body": "On one hand, I already searched for Pokemon Go in the spatial app store and was disappointed it wasn't there for me to try. \n\nOn the other hand, I can't imagine it being a great experience trying to use the stock iOS app in the headset. It would require a huge revamp to work well.\n\nOn the third hand, I already worry that I will get myself in trouble playing and not paying enough attention to the real world. Actually going out and playing with AVP would increase my chances of injuring myself by walking into something and would probably attract unwelcome attention from the general public.\n\nAfter all of those thoughts, I still think it could be a blast to play.",
+        "author": "vatavian",
+        "created_utc": 1707172358.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/kp3cqv1/",
+        "parent_id": "t3_1ajbkqm",
+        "depth": 0
+      },
+      {
+        "id": "kp0nf6v",
+        "body": "The battling mechanic is such a pain in the ass and finding the right team to be successful is so difficult that I am permanently on level 49 because level 50 has a PVP requirement and I just don’t feel like it",
+        "author": "ThrowawayFruitStand9",
+        "created_utc": 1707137054.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/kp0nf6v/",
+        "parent_id": "t1_kp094il",
+        "depth": 1
+      },
+      {
+        "id": "kp0slnf",
+        "body": "Yea, the only way a Pokémon go game would work on vision is if you were waking around irl. I thank it would be really kool to make them look like they’re in the the real world, but if you thank the point is to let you sit on couch the whole time you don’t get it.",
+        "author": "lO_____________Ol",
+        "created_utc": 1707139624.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/kp0slnf/",
+        "parent_id": "t1_kp0n0rp",
+        "depth": 1
+      }
+    ]
+  },
+  "1lykkqf": {
+    "submission_info": {
+      "title": "I feel violated by intern season",
+      "url": "https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/",
+      "author": "kojied",
+      "subreddit": "newyorkcity",
+      "score": 0,
+      "num_comments": 7,
+      "is_self": true,
+      "selftext": "There's this bar that I frequent a few blocks away from my house. Technically different neighborhood, but generally has a mature vibe with people who like music and to dance. Today when I went to the bar and all of a sudden I felt like I was at a college basement party. I thought that I must have been hallucinating, but Then a girl pointed at me and referred to me as the old person. That's when I knew I had to get out of there.\n I was at the wrong party. \n\nAs I walk back home, all of a sudden I realize that there were now tens of thousands of 18 year-old 19 year-old 20-year-olds who were all living on top of each other and were super young and horny to basically use the New York nightlife as their own personal orgy dome.\n Naturally I felt violated\n\nBut then again, I thought to myself. Am I not the same as they are, just at a longer time horizon? I'm also a transient being in the city. They might only be here for three months, but I've only been here for three years as well. As a matter fact, there are bunch of people have done this for generations where their parents and their grandparents and their grandparents all met in New York, and they all decided to live somewhere in the broader region whether it be Westchester, Wilmington, Big Indian, Boston, etc. \nNew York City is equally adventurous to each, so who am I to judge how others enjoy this adventurous city."
+    },
+    "comments_on_post": [
+      {
+        "id": "n2ulyt4",
+        "body": "r/circlejerknyc",
+        "author": "StuntMedic",
+        "created_utc": 1752383280.0,
+        "score": 9,
+        "permalink": "https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/n2ulyt4/",
+        "parent_id": "t3_1lykkqf",
+        "depth": 0
+      },
+      {
+        "id": "n2um4p7",
+        "body": "Welcome to New York City? \n\nNot sure how old you are but if you feel like you have outlived your neighborhood environment, you are free to move to the suburbs or to the outer boroughs.",
+        "author": "Eastcoastpal",
+        "created_utc": 1752383361.0,
+        "score": 6,
+        "permalink": "https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/n2um4p7/",
+        "parent_id": "t3_1lykkqf",
+        "depth": 0
+      },
+      {
+        "id": "n2ulzut",
+        "body": "The creative writing subreddit is that way \\~\\~\\~\\~\\~\\~\\~> r/creativewriting",
+        "author": "EpochVanquisher",
+        "created_utc": 1752383294.0,
+        "score": 6,
+        "permalink": "https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/n2ulzut/",
+        "parent_id": "t3_1lykkqf",
+        "depth": 0
+      },
+      {
+        "id": "n2umas0",
+        "body": "Dear diary…",
+        "author": "[deleted]",
+        "created_utc": 1752383445.0,
+        "score": 5,
+        "permalink": "https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/n2umas0/",
+        "parent_id": "t3_1lykkqf",
+        "depth": 0
+      },
+      {
+        "id": "n2ulwjt",
+        "body": "Get over yourself. ",
+        "author": "CorrectStaple",
+        "created_utc": 1752383250.0,
+        "score": 9,
+        "permalink": "https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/n2ulwjt/",
+        "parent_id": "t3_1lykkqf",
+        "depth": 0
+      },
+      {
+        "id": "n2umdid",
+        "body": "My favorite sentence in this is \"Naturally I felt violated.\" I'm really sorry about your life that you can say a sentence like that about kids having fun. It must suck",
+        "author": "LurkingLikeaPro",
+        "created_utc": 1752383483.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/n2umdid/",
+        "parent_id": "t3_1lykkqf",
+        "depth": 0
+      },
+      {
+        "id": "n2vz2vc",
+        "body": "The best thing about being the \"old person\" is not leaving. Stand your ground and annoy the hell out of them - with a smile, of course.\n\nThen again, the number of younger people who are attracted to older people will never diminish.",
+        "author": "The_Lone_Apple",
+        "created_utc": 1752409839.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/n2vz2vc/",
+        "parent_id": "t3_1lykkqf",
+        "depth": 0
+      }
+    ]
+  },
+  "1erotgn": {
+    "submission_info": {
+      "title": "What’s a movie that best represents your childhood?",
+      "url": "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/",
+      "author": "kojied",
+      "subreddit": "GenZ",
+      "score": 8,
+      "num_comments": 14,
+      "is_self": true,
+      "selftext": "There's so many coming of age movies for boomers and millennials, what about for gen-Z?"
+    },
+    "comments_on_post": [
+      {
+        "id": "li04wsr",
+        "body": "Did you know we have a Discord server‽ You can join by clicking [here](https://discord.gg/NWE6JS5rh9)! \n\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/GenZ) if you have any questions or concerns.*",
+        "author": "AutoModerator",
+        "created_utc": 1723598418.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/li04wsr/",
+        "parent_id": "t3_1erotgn",
+        "depth": 0
+      },
+      {
+        "id": "li0se41",
+        "body": "Probably The Empire Strikes Back\n\nAlso 90s VeggieTales",
+        "author": "[deleted]",
+        "created_utc": 1723607913.0,
+        "score": 3,
+        "permalink": "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/li0se41/",
+        "parent_id": "t3_1erotgn",
+        "depth": 0
+      },
+      {
+        "id": "li0ienn",
+        "body": "Would Scott Pilgrim be a millennial or Gen-Z thing? It feels very 2000s in it’s presentation.",
+        "author": "TvHead9752",
+        "created_utc": 1723603602.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/li0ienn/",
+        "parent_id": "t3_1erotgn",
+        "depth": 0
+      },
+      {
+        "id": "li06vd6",
+        "body": "Texas Chainsaw Massacre.",
+        "author": "RodriguezA232",
+        "created_utc": 1723599158.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/li06vd6/",
+        "parent_id": "t3_1erotgn",
+        "depth": 0
+      },
+      {
+        "id": "li0lx1k",
+        "body": "1984",
+        "author": "Candid_Afternoon_416",
+        "created_utc": 1723605042.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/li0lx1k/",
+        "parent_id": "t3_1erotgn",
+        "depth": 0
+      },
+      {
+        "id": "li12h95",
+        "body": "Superbad? Just cos it's so fuckin awkward and cringey",
+        "author": "AshKetchupppp",
+        "created_utc": 1723613053.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/li12h95/",
+        "parent_id": "t3_1erotgn",
+        "depth": 0
+      },
+      {
+        "id": "li1564j",
+        "body": "Okay this is going to sound a bit silly, but the three original Diary of a Wimpy Kid films were my coming of age movies in the early 2010s, along with Shorts (2009).\n\nThese films pretty accurately capture what it was like growing up wedged in between the millennial generation and Gen Z in middle class North America. Greg Heffley is a zillennial with a millennial older brother and a younger Gen Z brother and he has to navigate the challenges of being the middle sibling. I remember watching Rodrick Rules the night before my first day of eighth grade and it was the perfect choice for that night at that point of my life. 10 years later I look up the actor who played Greg and he was born 2 months before me. I wasn't surprised.",
+        "author": "TurtleBoy1998",
+        "created_utc": 1723614573.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/li1564j/",
+        "parent_id": "t3_1erotgn",
+        "depth": 0
+      },
+      {
+        "id": "li2b0hs",
+        "body": "Deborah logan",
+        "author": "Outside-Inevitable-5",
+        "created_utc": 1723638722.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/li2b0hs/",
+        "parent_id": "t3_1erotgn",
+        "depth": 0
+      },
+      {
+        "id": "li2hd76",
+        "body": "Bridge to Terabithia",
+        "author": "[deleted]",
+        "created_utc": 1723641186.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/li2hd76/",
+        "parent_id": "t3_1erotgn",
+        "depth": 0
+      },
+      {
+        "id": "li2nuq3",
+        "body": "Empire for sure",
+        "author": "RogueCoon",
+        "created_utc": 1723643512.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/li2nuq3/",
+        "parent_id": "t3_1erotgn",
+        "depth": 0
+      },
+      {
+        "id": "li3d9zj",
+        "body": "not that anyone asked, but if you want to know the ultimate Gen X movie, it's Perks Of A Wallflower. All the references are unbelievably 1990.",
+        "author": "Super901",
+        "created_utc": 1723651762.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/li3d9zj/",
+        "parent_id": "t3_1erotgn",
+        "depth": 0
+      },
+      {
+        "id": "li6duei",
+        "body": "I love that movie !",
+        "author": "oogaboogahooha",
+        "created_utc": 1723688275.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/li6duei/",
+        "parent_id": "t1_li2hd76",
+        "depth": 1
+      }
+    ]
+  },
+  "1h8ddbp": {
+    "submission_info": {
+      "title": "Are you guys for/against banning Tiktok in the US?",
+      "url": "https://www.reddit.com/r/Conservative/comments/1h8ddbp/are_you_guys_foragainst_banning_tiktok_in_the_us/",
+      "author": "kojied",
+      "subreddit": "Conservative",
+      "score": 1,
+      "num_comments": 0,
+      "is_self": true,
+      "selftext": "[removed]"
+    },
+    "comments_on_post": []
+  },
+  "1alx270": {
+    "submission_info": {
+      "title": "Watching Edgerunners on the moon feels",
+      "url": "https://i.redd.it/jcvx9f59hdhc1.jpeg",
+      "author": "kojied",
+      "subreddit": "VisionPro",
+      "score": 93,
+      "num_comments": 5,
+      "is_self": false,
+      "selftext": null
+    },
+    "comments_on_post": [
+      {
+        "id": "kpjeg0w",
+        "body": "And your light seal is now soaked in tears",
+        "author": "Calm-Elevator5125",
+        "created_utc": 1707425161.0,
+        "score": 4,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/kpjeg0w/",
+        "parent_id": "t3_1alx270",
+        "depth": 0
+      },
+      {
+        "id": "kpi0n7c",
+        "body": "Was also feeling this when watching For All Mankind in the moon environment.",
+        "author": "transcriptoin_error",
+        "created_utc": 1707408559.0,
+        "score": 3,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/kpi0n7c/",
+        "parent_id": "t3_1alx270",
+        "depth": 0
+      },
+      {
+        "id": "kpivwd7",
+        "body": "how are you doing this? Netflix via website?",
+        "author": "SpecialEfficient4410",
+        "created_utc": 1707418962.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/kpivwd7/",
+        "parent_id": "t3_1alx270",
+        "depth": 0
+      },
+      {
+        "id": "kpj22sq",
+        "body": "😭",
+        "author": "SpecialEfficient4410",
+        "created_utc": 1707421031.0,
+        "score": 2,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/kpj22sq/",
+        "parent_id": "t3_1alx270",
+        "depth": 0
+      },
+      {
+        "id": "kpj88ue",
+        "body": "This is the (currently only) Way.",
+        "author": "jmachee",
+        "created_utc": 1707423082.0,
+        "score": 1,
+        "permalink": "https://www.reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/kpj88ue/",
+        "parent_id": "t1_kpivwd7",
+        "depth": 1
+      }
+    ]
+  }
+}
